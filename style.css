@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(rgb(112, 255, 112), skyblue);
+    color: crimson;
+    font-family: cursive;
+    font-size: 24px;
+}
+
+h2 {
+    color: navy;
+    background-color: palegoldenrod;
+    width: fit-content;
+    font-size: 26px;
+    padding: 8px;
+    border-radius: 10px;
+    font-family: 'Gemunu Libre', sans-serif;
+    letter-spacing: 10px;
+}
+
+canvas {
+    border: 5px double navy;
+    border-radius: 10px;
+}
